@@ -1,0 +1,7 @@
+name: FileSkRebirth
+main: com.marquez.fileskrebirth.Main
+version: 2.3.2
+depend: [Skript]
+commands:
+  filesk:
+    description: FileSkRebirth's default command
